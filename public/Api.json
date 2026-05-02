@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Resume Pack",
+    "description": "Basic resume builder for beginners with essential tools.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "10+ templates",
+      "Basic customization",
+      "Export to PDF"
+    ],
+    "icon": "mm"
+  },
+  {
+    "id": 2,
+    "name": "Pro Resume Builder",
+    "description": "Advanced resume builder with ATS optimization.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF"
+    ],
+    "icon": "mm"
+  },
+  {
+    "id": 3,
+    "name": "Career Booster",
+    "description": "Complete career toolkit with resume and cover letter builder.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Resume + Cover Letter",
+      "LinkedIn optimization",
+      "Unlimited downloads"
+    ],
+    "icon": "mm"
+  },
+  {
+    "id": 4,
+    "name": "Premium Career Kit",
+    "description": "All-in-one package for professionals.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "All templates",
+      "AI suggestions",
+      "Priority support"
+    ],
+    "icon": "mm"
+  },
+  {
+    "id": 5,
+    "name": "Freelancer Toolkit",
+    "description": "Perfect for freelancers to showcase skills.",
+    "price": 14,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Portfolio templates",
+      "Client proposals",
+      "Invoice generator"
+    ],
+    "icon": "mm"
+  },
+  {
+    "id": 6,
+    "name": "Student Pack",
+    "description": "Designed for students and fresh graduates.",
+    "price": 4,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "Entry-level templates",
+      "Internship guides",
+      "Simple editor"
+    ],
+    "icon": "mm"
+  },
+  {
+    "id": 7,
+    "name": "Executive Suite",
+    "description": "Premium tools for executives and managers.",
+    "price": 199,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Executive templates",
+      "Personal branding",
+      "1-on-1 consultation"
+    ],
+    "icon": "mm"
+  },
+  {
+    "id": 8,
+    "name": "AI Resume Expert",
+    "description": "AI-powered resume builder with smart suggestions.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "AI content writing",
+      "Real-time feedback",
+      "Keyword optimization"
+    ],
+    "icon": "mm"
+  }
+]
