@@ -12,7 +12,7 @@
       "Basic customization",
       "Export to PDF"
     ],
-    "icon": "mm"
+    "icon": "/src/assets/products/design-tool.png"
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
       "LinkedIn optimization",
       "Unlimited downloads"
     ],
-    "icon": "mm"
+    "icon": "/src/assets/products/operation.png"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
       "AI suggestions",
       "Priority support"
     ],
-    "icon": "mm"
+    "icon": "/src/assets/products/portfolio.png"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
       "Client proposals",
       "Invoice generator"
     ],
-    "icon": "mm"
+    "icon": "/src/assets/products/social-media.png"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
       "Internship guides",
       "Simple editor"
     ],
-    "icon": "mm"
+    "icon": "/src/assets/products/writing_2327400 1.png"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
       "Personal branding",
       "1-on-1 consultation"
     ],
-    "icon": "mm"
+    "icon": "/src/assets/products/design-tool.png"
   },
   {
     "id": 8,
@@ -117,6 +117,6 @@
       "Real-time feedback",
       "Keyword optimization"
     ],
-    "icon": "mm"
+    "icon": "/src/assets/products/shopping-cart.png"
   }
 ]

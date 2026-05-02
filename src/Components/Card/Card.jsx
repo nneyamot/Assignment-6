@@ -19,13 +19,13 @@ const Card = ({ item, items, setItems }) => {
                     <button className="btn">  {tag} </button>
 
                 </div>
-                <h2 className='text-4xl font-bold text-[#101727]'>{name} </h2>
-                <p className='text-xl text-[#627382]'>{description} </p>
-                <h1 className='text-5xl font-bold text-[#101727]'>${price}/mo</h1>
+                <h2 className='text-4xl font-bold text-[#101727] text-left'>{name} </h2>
+                <p className='text-xl text-[#627382] text-left'>{description} </p>
+                <h1 className='text-5xl font-bold text-[#101727] text-left'>${price}/mo</h1>
                 <div className='text-[#627382]'>
-                    <p> <TiTick /> {features[0]}</p>
-                    <p> <TiTick /> {features[1]}</p>
-                    <p> <TiTick /> {features[2]}</p>
+                    <p className='flex items-center'> <TiTick /> {features[0]}</p>
+                    <p className='flex items-center'> <TiTick /> {features[1]}</p>
+                    <p className='flex items-center'> <TiTick /> {features[2]}</p>
                     {/* {
                         features.map(feature => (
 
