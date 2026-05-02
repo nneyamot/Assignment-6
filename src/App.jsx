@@ -5,6 +5,8 @@ import BlueVar from './Components/BlueVar/BlueVar'
 import Hero from './Components/Hero/Hero'
 import NavBar from './Components/NavBar/NavBar'
 import PremiumTools from './Components/PremiumTools/PremiumTools'
+import Steps3 from './Components/Steps3/Steps3'
+import TransparentPricing from './Components/TransparentPricing/transparentPricing'
 
 function App() {
   const [items, setItems] = useState([]);
@@ -29,6 +31,15 @@ function App() {
 
         <section className='text-center'>
           <PremiumTools items={items} setItems={setItems} promiseOfApi={promiseOfApi} ></PremiumTools>
+        </section>
+
+
+        <section className='mt-20'>
+           <Steps3></Steps3>
+        </section>
+
+        <section>
+          <TransparentPricing></TransparentPricing>
         </section>
 
 
