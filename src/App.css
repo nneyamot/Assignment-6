@@ -1,13 +1,16 @@
 .new {
-    background-color:#DBFCE7,
+    background-color:#DBFCE7;
+    color : #0A883E
     
-    
+
 }
 
 .popular {
-    background-color:#E1E7FF
+    background-color:#E1E7FF;
+    color : #4F39F6;
 }
 
 .best {
-    background-color:#FEF3C6
+    background-color:#FEF3C6;
+    color : #BB4D00
 }

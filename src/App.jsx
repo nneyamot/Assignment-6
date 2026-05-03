@@ -12,7 +12,7 @@ import ReadyToTransform from './Components/ReadyToTransform/ReadyToTransform'
 
 function App() {
   const [items, setItems] = useState([]);
-  const promiseOfApi = fetch('/Assignment-6/Api.json').then(res => res.json());
+  const promiseOfApi = fetch('/Api.json').then(res => res.json());
 
   return (
     <>
