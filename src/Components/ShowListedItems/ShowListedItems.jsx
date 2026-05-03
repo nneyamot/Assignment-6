@@ -12,7 +12,7 @@ const ShowListedItems = ({ item, items, setItems }) => {
         setItems(filteredItems);
 
         //  toast('item removed')
-        toast.error('Item deleted !')
+        toast.error('Item Removed !')
 
 
     }

@@ -8,10 +8,11 @@ import PremiumTools from './Components/PremiumTools/PremiumTools'
 import Steps3 from './Components/Steps3/Steps3'
 import TransparentPricing from './Components/TransparentPricing/transparentPricing'
 import { ToastContainer } from 'react-toastify'
+import ReadyToTransform from './Components/ReadyToTransform/ReadyToTransform'
 
 function App() {
   const [items, setItems] = useState([]);
-  const promiseOfApi = fetch('/Api.json').then(res => res.json());
+  const promiseOfApi = fetch('/Assignment-6/Api.json').then(res => res.json());
 
   return (
     <>
@@ -43,6 +44,10 @@ function App() {
           <TransparentPricing></TransparentPricing>
         </section>
 
+
+      <section className=''>
+        <ReadyToTransform></ReadyToTransform>
+      </section>
 
         {/* react tostify  */}
                 <ToastContainer />
