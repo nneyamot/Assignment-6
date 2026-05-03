@@ -12,7 +12,7 @@
       "Basic customization",
       "Export to PDF"
     ],
-    "icon": "/src/assets/products/design-tool.png"
+    "icon": "https://i.ibb.co.com/Xkr1NQRx/design-tool.png"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
       "ATS optimization",
       "Export to PDF"
     ],
-    "icon": "mm"
+    "icon": "https://i.ibb.co.com/Xkr1NQRx/design-tool.png"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
       "LinkedIn optimization",
       "Unlimited downloads"
     ],
-    "icon": "/src/assets/products/operation.png"
+    "icon": "https://i.ibb.co.com/Xkr1NQRx/design-tool.png"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
       "AI suggestions",
       "Priority support"
     ],
-    "icon": "/src/assets/products/portfolio.png"
+    "icon": "https://i.ibb.co.com/Xkr1NQRx/design-tool.png"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
       "Client proposals",
       "Invoice generator"
     ],
-    "icon": "/src/assets/products/social-media.png"
+    "icon": "https://i.ibb.co.com/Xkr1NQRx/design-tool.png"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
       "Internship guides",
       "Simple editor"
     ],
-    "icon": "/src/assets/products/writing_2327400 1.png"
+    "icon": "https://i.ibb.co.com/Xkr1NQRx/design-tool.png"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
       "Personal branding",
       "1-on-1 consultation"
     ],
-    "icon": "/src/assets/products/design-tool.png"
+    "icon": "https://i.ibb.co.com/Xkr1NQRx/design-tool.png"
   },
   {
     "id": 8,
@@ -117,6 +117,6 @@
       "Real-time feedback",
       "Keyword optimization"
     ],
-    "icon": "/src/assets/products/design-tool.png"
+    "icon": "https://i.ibb.co.com/Xkr1NQRx/design-tool.png"
   }
 ]
