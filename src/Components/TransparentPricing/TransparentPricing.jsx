@@ -3,13 +3,13 @@ import { TiTickOutline } from 'react-icons/ti';
 
 const TransparentPricing = () => {
     return (
-        <div className='w-11/12 mx-auto '>
+        <div className='w-11/12 mx-auto  '>
             <div className='text-center'>
                 <h2 className='text-5xl font-bold'>Simple, Transparent Pricing</h2>
                 <p className='mt-5'>Choose the plan that fits your needs. Upgrade or downgrade anytime.</p>
             </div>
 
-            <div className='grid grid-cols-3 gap-5 mt-6 '>
+            <div className='grid grid-cols-3 gap-5 mt-6 mb-20'>
 
                 <div className='shadow-2xl p-6 bg-amber-200 rounded-xl'>
 
@@ -28,7 +28,7 @@ const TransparentPricing = () => {
                         <p className='flex gap-2 items-center'><TiTickOutline /> Community support</p>
                         <p className='flex gap-2 items-center'><TiTickOutline /> 1 project per month</p>
                     </div>
-                        <button className='btn bg-blue-700 text-white font-bold text-2xl mt-8'>Get Started Free</button>
+                        <button className='btn bg-blue-700 text-white font-bold text-xl mt-8'>Get Started Free</button>
 
 
                 </div>
@@ -39,12 +39,12 @@ const TransparentPricing = () => {
                 <div className='shadow-2xl p-6 bg-amber-200 rounded-xl'>
 
                     <div>
-                        <h1 className='text-2xl font-bold'>Starter</h1>
-                        <p>Perfect for getting started</p>
+                        <h1 className='text-2xl font-bold'>Pro</h1>
+                        <p>Best for professionals</p>
                     </div>
                     <br />
                     <div className='text-4xl font-bold'>
-                        <h1>$0/<span>Month</span></h1>
+                        <h1>$29/<span className='text-xl'>Month</span></h1>
                     </div>
                     <br />
                     <div>
@@ -55,7 +55,7 @@ const TransparentPricing = () => {
                         <p className='flex gap-2 items-center'><TiTickOutline /> Cloud sync</p>
                         <p className='flex gap-2 items-center'><TiTickOutline /> Advanced analytics </p>
                     </div>
-                        <button className='btn bg-blue-700 text-white font-bold text-2xl mt-8'>Start Pro Trial</button>
+                        <button className='btn bg-blue-700 text-white font-bold text-xl mt-8'>Start Pro Trial</button>
 
 
                 </div>
@@ -66,12 +66,12 @@ const TransparentPricing = () => {
                 <div className='shadow-2xl p-6 bg-amber-200 rounded-xl'>
 
                     <div>
-                        <h1 className='text-2xl font-bold'>Starter</h1>
-                        <p>Perfect for getting started</p>
+                        <h1 className='text-2xl font-bold'>Enterprise</h1>
+                        <p>For teams and businesses</p>
                     </div>
                     <br />
                     <div className='text-4xl font-bold'>
-                        <h1>$0/<span>Month</span></h1>
+                        <h1>$99/<span className='text-xl'>Month</span></h1>
                     </div>
                     <br />
                     <div>
@@ -82,7 +82,7 @@ const TransparentPricing = () => {
                         <p className='flex gap-2 items-center'><TiTickOutline />SLA guarantee</p>
                         <p className='flex gap-2 items-center'><TiTickOutline />Custom branding</p>
                     </div>
-                        <button className='btn bg-blue-700 text-white font-bold text-2xl mt-8'>Contact Sales</button>
+                        <button className='btn bg-blue-700 text-white font-bold text-xl mt-8'>Contact Sales</button>
 
                 </div>
             </div>

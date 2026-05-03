@@ -1,5 +1,6 @@
 import React from 'react';
 import { TiTick } from 'react-icons/ti';
+import { toast } from 'react-toastify';
 
 const Card = ({ item, items, setItems }) => {
     // console.log(item);
@@ -9,6 +10,7 @@ const Card = ({ item, items, setItems }) => {
 
         const update = [...items, item]
         setItems(update);
+        toast.success('Item Added inside Carts')
     }
 
     return (

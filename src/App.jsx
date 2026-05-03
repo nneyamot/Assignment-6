@@ -7,6 +7,7 @@ import NavBar from './Components/NavBar/NavBar'
 import PremiumTools from './Components/PremiumTools/PremiumTools'
 import Steps3 from './Components/Steps3/Steps3'
 import TransparentPricing from './Components/TransparentPricing/transparentPricing'
+import { ToastContainer } from 'react-toastify'
 
 function App() {
   const [items, setItems] = useState([]);
@@ -43,6 +44,8 @@ function App() {
         </section>
 
 
+        {/* react tostify  */}
+                <ToastContainer />
 
 
       </main>
